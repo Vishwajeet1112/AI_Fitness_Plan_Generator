@@ -1,0 +1,5 @@
+{
+  "name": "AI Fitness Plan Generator",
+  "description": "Generate a personalized weekly fitness plan using AI based on your goals, experience, and preferences.",
+  "requestFramePermissions": []
+}
